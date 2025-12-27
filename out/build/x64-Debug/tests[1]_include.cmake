@@ -1,0 +1,5 @@
+if(EXISTS "D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/tests[1]_tests.cmake")
+  include("D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

@@ -1,0 +1,21 @@
+# ninja log v6
+6	60	7885120544855617	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	e8ae9da3329fb0f4
+6	60	7885120544855617	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	e8ae9da3329fb0f4
+61	1305	7885120557288436	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	96e6577ee77aad96
+61	1305	7885120557288436	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	96e6577ee77aad96
+1306	1367	7885120557908576	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	24db63c46cc3b3d4
+1306	1367	7885120557908576	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	24db63c46cc3b3d4
+1368	1431	7885120558538709	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	66986c759380fbef
+1368	1431	7885120558538709	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	66986c759380fbef
+1432	1495	7885120559188856	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	89c314e64dbe5ed7
+1432	1495	7885120559188856	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	89c314e64dbe5ed7
+1495	1550	7885120559748981	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	850c01ee9a1ae0bf
+1495	1550	7885120559748981	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	850c01ee9a1ae0bf
+1550	1604	7885120560299099	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	c26465f337577af3
+1550	1604	7885120560299099	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	c26465f337577af3
+1605	1660	7885120560849236	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	652986108aaf5688
+1605	1660	7885120560849236	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	652986108aaf5688
+1660	1737	7885120561629403	CMakeFiles/googletest-populate-complete	3b3b244be3252b67
+1660	1737	7885120561629403	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	3b3b244be3252b67
+1660	1737	7885120561629403	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	3b3b244be3252b67
+1660	1737	7885120561629403	D:/GitHub/DynArrayAndQuicksort/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	3b3b244be3252b67
