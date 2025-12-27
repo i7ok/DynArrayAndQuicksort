@@ -1,8 +1,12 @@
 ﻿cmake_minimum_required(VERSION 3.20)
-project(DynArrayAndQuicksort3 CXX)
+project(labs_p21 CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+if (MSVC)
+  add_compile_options(/utf-8)
+endif()
 
 add_library(labs_headers INTERFACE)
 target_include_directories(labs_headers INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}/include)
@@ -30,3 +34,8 @@ add_executable(bench_sort
   bench/bench_sort.cpp
 )
 target_link_libraries(bench_sort PRIVATE labs_headers)
+
+add_executable(file_sort
+  app/file_sort.cpp
+)
+target_link_libraries(file_sort PRIVATE labs_headers)
